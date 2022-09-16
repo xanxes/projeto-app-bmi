@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="bmi">IMC</string>
+    <string name="calculator">Calculadora</string>
+    <string name="login">AUTENTICAR</string>
+    <string name="your_email">Seu e-mail</string>
+    <string name="your_pass">Sua senha</string>
+    <string name="new_user">Cadastre-se</string>
+    <string name="logo_name">SENAI</string>
+    <string name="signup_new_user">Cadastro de novo usuário</string>
+    <string name="edit_name_label">Nome:</string>
+    <string name="edit_email_label">E-mail:</string>
+    <string name="edit_pass_label">Senha:</string>
+    <string name="edit_weight_label">Peso:</string>
+    <string name="edit_height_label">Altura:</string>
+    <string name="hint_name">Insira seu nome</string>
+    <string name="hint_email">Insira seu E-mail</string>
+    <string name="hint_password">Crie sua senha</string>
+    <string name="hint_height">Insira sua altura</string>
+    <string name="hint_weight">Insira seu peso</string>
+    <string name="button_text_login">Salvar usuário</string>
+    <string name="login_text">Login</string>
+    <string name="user_name">Nome</string>
+    <string name="user_email">E-mail do Usuario</string>
+    <string name="weight_value">Peso : xx</string>
+    <string name="calculate_text">Vamos calcular seu índice de massa corporal agora?</string>
+    <string name="height_value">Altura : x.xx</string>
+    <string name="button_calculate_text">Calcular</string>
+    <string name="result_text">Esse é o resultado do seu IMC</string>
+    <string name="below_weight">Abaixo do peso ideal</string>
+    <string name="normal_weight">Peso ideal</string>
+    <string name="slightly_above_weight">Um pouco acima do peso ideal</string>
+    <string name="obesity_I">Obesidade I</string>
+    <string name="obesity_II">"Obesidade II "</string>
+    <string name="obesity_III">Obesidade III (Mórbida)</string>
+    <string name="back_button">Voltar</string>
+</resources>

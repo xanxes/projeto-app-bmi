@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC 2.0</string>
+    <string name="bmi">IMC</string>
+    <string name="calculator">Calculatrice</string>
+    <string name="login">CONNEXION</string>
+    <string name="your_email">Votre e-mail</string>
+    <string name="your_pass">Votre mot de passe</string>
+    <string name="new_user">S\'inscrire</string>
+    <string name="logo_name">SENAI</string>
+    <string name="signup_new_user">Registre des nouveaux utilisateurs</string>
+    <string name="edit_name_label">Nom:</string>
+    <string name="edit_email_label">E-mail:</string>
+    <string name="edit_pass_label">Mot de passe:</string>
+    <string name="edit_weight_label">Lester:</string>
+    <string name="edit_height_label">Taille:</string>
+    <string name="hint_name">Insérez votre nom</string>
+    <string name="hint_email">Insérez votre E-mail</string>
+    <string name="hint_password">Créez votre mot de passe</string>
+    <string name="hint_height">Insérez votre poids</string>
+    <string name="hint_weight">Insérez votre taille</string>
+    <string name="button_text_login">Enregistrer l\'utilisateur</string>
+    <string name="login_text">Connexion</string>
+    <string name="user_name">Nom</string>
+    <string name="user_email">Courriel de l\'utilisateur</string>
+    <string name="weight_value">Lester : xx</string>
+    <string name="calculate_text">Calculons votre indice de masse corporelle?</string>
+    <string name="height_value">Taille : x.xx</string>
+    <string name="button_calculate_text">Calculer</string>
+    <string name="result_text">C\'est le résultat de votre IMC</string>
+    <string name="below_weight">En dessous du poids santé</string>
+    <string name="normal_weight">Poids normal</string>
+    <string name="slightly_above_weight">Légèrement au-dessus du poids normal</string>
+    <string name="obesity_I">Obésité I</string>
+    <string name="obesity_II">"Obésité II "</string>
+    <string name="obesity_III">Obésité III (Morbide)</string>
+    <string name="back_button">Retour</string>
+</resources>
